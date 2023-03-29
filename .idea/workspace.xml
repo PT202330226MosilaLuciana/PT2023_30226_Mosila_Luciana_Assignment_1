@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="81c4ef56-db4a-43a0-97e1-5fafca60231c" name="Changes" comment="Tema 1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Model/Polinom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Model/Polinom.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,21 +45,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/PT2023_30226_Mosila_Luciana_Assignment_1/PT2023_30226_Mosila_Luciana_Assignment_1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager">
+}]]></component>
+  <component name="RunManager" selected="JUnit.testJU.testAdunare">
     <configuration name="testJU.testAdunare" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Tema1" />
       <option name="PACKAGE_NAME" value="" />
@@ -130,6 +132,11 @@
       <workItem from="1679929084952" duration="13727000" />
       <workItem from="1679947633956" duration="6576000" />
       <workItem from="1680004082823" duration="378000" />
+      <workItem from="1680011455040" duration="851000" />
+      <workItem from="1680013549436" duration="1416000" />
+      <workItem from="1680016086230" duration="2729000" />
+      <workItem from="1680092117591" duration="162000" />
+      <workItem from="1680092404250" duration="16000" />
     </task>
     <task id="LOCAL-00001" summary="Tema1">
       <created>1679942608885</created>

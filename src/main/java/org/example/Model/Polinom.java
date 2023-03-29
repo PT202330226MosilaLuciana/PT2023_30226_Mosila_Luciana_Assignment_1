@@ -75,16 +75,13 @@ public class Polinom {
             } else {
                 putere = Integer.parseInt(sputere);
             }
-
             String sconstanta = matcher.group(2);
             if (sconstanta != null && !sconstanta.isEmpty()) {
                 Double constanta = Double.parseDouble(sconstanta.replaceAll("\\s",""));
                 mapPolinom.put(0, constanta);
             }
-
             mapPolinom.put(putere, coeficient);
         }
-
         if (!mapPolinom.containsKey(1)) {
             mapPolinom.put(1,0.0);
         }
